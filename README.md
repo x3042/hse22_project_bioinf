@@ -21,3 +21,9 @@ Bacillus infantis NRRL B-14911 GCF_000473245.1_ASM47324v1
 |Bacillus\_amyloliquefaciens|3919|3527895|89\.61176224946442|0|0|0|
 
 у двух последних с наименьшим GC% не оказалось z-dna
+
+![GCF_000769555 1_ASM76955v1_distribution](https://user-images.githubusercontent.com/72338612/173408437-2f9d97b0-a90b-4cef-a56f-2a37c869313f.png)
+
+![GCF_004103615 1_ASM410361v1_distribution](https://user-images.githubusercontent.com/72338612/173408454-8ec14054-97be-49a7-a8cf-be68072fede4.png)
+
+![GCF_014042035 1_ASM1404203v1_distribution](https://user-images.githubusercontent.com/72338612/173408472-2ca58123-6e29-40e8-a665-5f813cd4e53f.png)
