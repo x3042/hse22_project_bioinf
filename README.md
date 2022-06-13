@@ -31,6 +31,13 @@ Bacillus infantis NRRL B-14911 GCF_000473245.1_ASM47324v1
 
 ![GCF_014042035 1_ASM1404203v1_distribution](https://user-images.githubusercontent.com/72338612/173408472-2ca58123-6e29-40e8-a665-5f813cd4e53f.png
 
+# Расположение предсказанных z-dna:
+![0_zdna](https://user-images.githubusercontent.com/72338612/173419575-5f2c069b-79c8-4936-b8d4-fe1c5fc9ab48.png)
+
+![1_zdna](https://user-images.githubusercontent.com/72338612/173419581-e6a82f98-7195-4c7c-b805-d2cb85e87fdc.png)
+![2_zdna](https://user-images.githubusercontent.com/72338612/173419672-a677b0b9-d548-4bfd-8126-1da4bf5730f9.png)
+
+
 # Гомологичные связи между белками выбранных геномов (создание кластеров)
 
 ![Распределение количества генов в кластере](https://user-images.githubusercontent.com/72338612/173413490-5a20fc66-4954-4790-b48f-d0427266f4dd.png)
