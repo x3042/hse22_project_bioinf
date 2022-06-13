@@ -52,6 +52,33 @@ Bacillus infantis NRRL B-14911 GCF_000473245.1_ASM47324v1
 |8|3|3|1\.0|WP\_022552875.1|WP\_046132056.1|WP\_154995861.1|2477\.3404199999995|
 |9|3|3|1\.0|WP\_003154192.1|WP\_046128922.1|WP\_020451431.1|1423\.2951|
 
-#Множественное белковое выравнивание
+# Множественное белковое выравнивание
+
 Выравнивание было выполнено ClustalW.
 Выравнивания находятся в папке alignments
+
+# Графическая визуализация расположения Z-DNA относительно гомологичных генов из разных организмов
+
+![1](https://user-images.githubusercontent.com/72338612/173417984-1755db26-4f98-44e3-bb12-3178964fa92d.png)
+
+![2](https://user-images.githubusercontent.com/72338612/173418006-af8c4027-5150-49b4-92b2-7f776e0f10fc.png)
+![3](https://user-images.githubusercontent.com/72338612/173418015-4c2fa4ed-58b0-45ca-a480-afc69cbd9d5b.png)
+![4](https://user-images.githubusercontent.com/72338612/173418032-2186716b-5b81-446a-aede-c1a31d809512.png)
+![5](https://user-images.githubusercontent.com/72338612/173418045-87fb846e-8da7-41c1-bb05-7df50a9a1f2f.png)
+![6](https://user-images.githubusercontent.com/72338612/173418054-01e5f745-8597-490e-bcc5-4a4d12428566.png)
+![7](https://user-images.githubusercontent.com/72338612/173418065-8583ef9e-9edb-4ceb-b3e4-e9a4bad3c3f6.png)
+![8](https://user-images.githubusercontent.com/72338612/173418074-7dcd2104-8d9f-4d35-8f6d-dcfc7e9731c8.png)
+![9](https://user-images.githubusercontent.com/72338612/173418083-0443491f-acc4-4a75-82c4-924745ec585c.png)
+![10](https://user-images.githubusercontent.com/72338612/173418098-3fa63bb3-019b-4a27-9a62-8c3615d79c18.png)
+
+
+
+
+
+
+
+
+
+
+
+
