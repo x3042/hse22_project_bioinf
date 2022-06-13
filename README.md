@@ -1,3 +1,7 @@
+# Таксон бактерий: Firmicutes 
+
+## Род бактерий: Bacillus#
+
 Bacillus amyloliquefaciens IT-45 GCF_000242855.2_ASM24285v2
 
 Bacillus velezensis GCF_000769555.1_ASM76955v1
