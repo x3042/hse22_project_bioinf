@@ -1,6 +1,7 @@
 # Таксон бактерий: Firmicutes 
 
 ## Род бактерий: Bacillus
+Colab https://colab.research.google.com/drive/1GAQjY_9-fIglf4tdzqe_b_jM1K1qi8PX?usp=sharing
 
 Bacillus amyloliquefaciens IT-45 GCF_000242855.2_ASM24285v2
 
